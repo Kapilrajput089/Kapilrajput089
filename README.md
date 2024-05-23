@@ -11,6 +11,7 @@ Kapilrajput089/Kapilrajput089 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm kapi kumar</h1>
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw12JjFXnvL_FI_M6QNhlxU6&ust=1716545912234000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjAoPrFo4YDFQAAAAAdAAAAABAE.gif>
 <h3 align="center">A passionate software engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilrajput089&label=Profile%20views&color=0e75b6&style=flat" alt="kapilrajput089" /> </p>
 
@@ -38,6 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilrajput089&show_icons=true&locale=en&layout=compact" alt="kapilrajput089" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilrajput089&show_icons=true&locale=en" alt="kapilrajput089" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilrajput089&show_icons=true&locale=en" alt="kapilrajput089" /></p>--->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilrajput089&" alt="kapilrajput089" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilrajput089&" alt="kapilrajput089" /></p>--->
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
