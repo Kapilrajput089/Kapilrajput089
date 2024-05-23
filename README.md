@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **kapil335286@gmail.com**
 
-- 📄 Know about my experiences [my resume](my resume)
+- 📄 Know about my experiences (<a href="https://github.com/kapilrajput089/kapilrajput089/blob/main/MyResume.png">My Resume</a>)
 
 - ⚡ Fun fact **I think🤔 i am very funny😊**
 
