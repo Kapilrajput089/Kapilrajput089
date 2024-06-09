@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm kapi rajput</h1>
 <!--<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3oBKq-gaI2FQRtKEpk38k6&ust=1716798061946000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD9wqjxqoYDFQAAAAAdAAAAABAQ.gif">--->
 <h3 align="center">A passionate software engineer from India</h3>
+<img align="left"> <img scr="https://www.google.com/imgres?q=git%20gif%20programmin&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F105595540%2F212469547-27e4c290-983d-4544-8266-60efd135ae41.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Feddyvk01%2Feddyvk01&docid=ySZEjTizBKuwsM&tbnid=sGO0QsnlUm-eqM&vet=12ahUKEwiNzNuhp86GAxX7amwGHW2UBnAQM3oECBkQAA..i&w=750&h=400&hcb=2&ved=2ahUKEwiNzNuhp86GAxX7amwGHW2UBnAQM3oECBkQAA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilrajput089&label=Profile%20views&color=0e75b6&style=flat" alt="kapilrajput089" /> </p>
 <hr>
 <h1>
@@ -21,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <p>✨ Would be Software Engineer ✨</p>
 <hr>
 
-- 🌱 I’m currently learning **DSA With C++**
+- 🌱 I’m currently learning **JAVA++**
 
 - 👨‍💻 All of my projects are available at [All of my projects are available on Github](All of my projects are available on Github)
 
