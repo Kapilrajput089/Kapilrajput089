@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <p>✨ Would be Software Engineer ✨</p>
 <hr>
 
-- 🌱 I’m currently learning **JAVA++**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [All of my projects are available on Github](All of my projects are available on Github)
 
